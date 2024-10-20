@@ -1,0 +1,12 @@
+2024-10-20 22:24:40,595 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2024-10-20 22:24:41,449 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2024-10-20 22:24:42,080 - logger - INFO - Plotting categorical variables distributions by class.
+2024-10-20 22:24:43,736 - logger - INFO - Successfully plotted multiple distributions by class.
+2024-10-20 22:24:46,285 - logger - INFO - Plotting source vs browser heatmap.
+2024-10-20 22:24:46,627 - logger - INFO - Successfully plotted source vs browser heatmap.
+2024-10-20 22:24:46,638 - logger - INFO - Plotting the distribution of purchase delays.
+2024-10-20 22:24:47,607 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2024-10-20 22:24:47,619 - logger - INFO - Plotting purchase patterns over time.
+2024-10-20 22:24:49,132 - logger - INFO - Successfully plotted purchase patterns over time.
+2024-10-20 22:24:49,142 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2024-10-20 22:24:56,277 - logger - INFO - Successfully plotted purchase value vs. delay.

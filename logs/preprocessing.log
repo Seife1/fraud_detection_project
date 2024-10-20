@@ -1,0 +1,54 @@
+2024-10-20 21:36:51,254 - logger - INFO - Dataset loaded successfully.
+2024-10-20 21:43:17,824 - logger - INFO - Dataset loaded successfully.
+2024-10-20 21:53:25,174 - logger - INFO - Dataset loaded successfully.
+2024-10-20 21:53:29,356 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2024-10-20 21:53:29,359 - logger - INFO - Country names standardized successfully.
+2024-10-20 21:53:29,360 - logger - INFO - Calculating fraud rates by country.
+2024-10-20 21:53:29,377 - logger - INFO - Fraud rates calculated successfully.
+2024-10-20 21:53:29,377 - logger - INFO - Calculating transaction volumes by country.
+2024-10-20 21:53:29,387 - logger - INFO - Transaction volumes calculated successfully.
+2024-10-20 21:53:29,387 - logger - INFO - Merging data with world GeoDataFrame.
+2024-10-20 21:53:29,402 - logger - INFO - Data merged successfully.
+2024-10-20 21:53:29,413 - logger - INFO - Calculating transaction volumes by country.
+2024-10-20 21:53:29,427 - logger - INFO - Transaction volumes calculated successfully.
+2024-10-20 21:53:29,446 - logger - INFO - Calculating fraud rates by country.
+2024-10-20 21:53:29,481 - logger - INFO - Fraud rates calculated successfully.
+2024-10-20 21:53:29,529 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2024-10-20 21:53:29,529 - logger - INFO - Starting the feature engineering pipeline...
+2024-10-20 21:53:29,529 - logger - INFO - Preprocessing datetime features...
+2024-10-20 21:53:29,593 - logger - INFO - Datetime features successfully created.
+2024-10-20 21:53:29,593 - logger - INFO - Calculating transaction frequency and velocity...
+2024-10-20 21:53:30,067 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2024-10-20 21:53:30,071 - logger - INFO - Normalizing and scaling numerical features...
+2024-10-20 21:53:30,120 - logger - INFO - Numerical features normalized and scaled successfully.
+2024-10-20 21:53:30,120 - logger - INFO - Encoding categorical features...
+2024-10-20 21:53:30,199 - logger - INFO - Categorical features encoded successfully.
+2024-10-20 21:53:30,199 - logger - INFO - Feature engineering pipeline executed successfully.
+2024-10-20 21:53:30,200 - logger - INFO - Retrieving processed data...
+2024-10-20 21:53:30,200 - logger - INFO - Processed data retrieved successfully.
+2024-10-20 21:58:42,294 - logger - INFO - Dataset loaded successfully.
+2024-10-20 21:58:46,118 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2024-10-20 21:58:46,124 - logger - INFO - Country names standardized successfully.
+2024-10-20 21:58:46,124 - logger - INFO - Calculating fraud rates by country.
+2024-10-20 21:58:46,147 - logger - INFO - Fraud rates calculated successfully.
+2024-10-20 21:58:46,147 - logger - INFO - Calculating transaction volumes by country.
+2024-10-20 21:58:46,160 - logger - INFO - Transaction volumes calculated successfully.
+2024-10-20 21:58:46,160 - logger - INFO - Merging data with world GeoDataFrame.
+2024-10-20 21:58:46,172 - logger - INFO - Data merged successfully.
+2024-10-20 21:58:46,234 - logger - INFO - Calculating transaction volumes by country.
+2024-10-20 21:58:46,249 - logger - INFO - Transaction volumes calculated successfully.
+2024-10-20 21:58:46,283 - logger - INFO - Calculating fraud rates by country.
+2024-10-20 21:58:46,305 - logger - INFO - Fraud rates calculated successfully.
+2024-10-20 21:58:46,389 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2024-10-20 21:58:46,389 - logger - INFO - Starting the feature engineering pipeline...
+2024-10-20 21:58:46,389 - logger - INFO - Preprocessing datetime features...
+2024-10-20 21:58:46,452 - logger - INFO - Datetime features successfully created.
+2024-10-20 21:58:46,452 - logger - INFO - Calculating transaction frequency and velocity...
+2024-10-20 21:58:46,965 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2024-10-20 21:58:46,967 - logger - INFO - Normalizing and scaling numerical features...
+2024-10-20 21:58:47,006 - logger - INFO - Numerical features normalized and scaled successfully.
+2024-10-20 21:58:47,006 - logger - INFO - Encoding categorical features...
+2024-10-20 21:58:47,079 - logger - INFO - Categorical features encoded successfully.
+2024-10-20 21:58:47,079 - logger - INFO - Feature engineering pipeline executed successfully.
+2024-10-20 21:58:47,079 - logger - INFO - Retrieving processed data...
+2024-10-20 21:58:47,079 - logger - INFO - Processed data retrieved successfully.
