@@ -118,13 +118,16 @@ class ModelPipeline:
 
                 if name in ['LSTM', 'CNN']:
                     # Reshape data for LSTM and CNN models
-                    X_train_reshaped = self.X_train.values.reshape(self.X_train.shape[0], self.X_train.shape[1], 1)
-                    X_test_reshaped = self.X_test.values.reshape(self.X_test.shape[0], self.X_test.shape[1], 1)
+                    X_train_reshaped = self.X_train.values.reshape(self.X_train.shape[0], self.X_train.shape[1], 1).astype('float32')
+                    X_test_reshaped = self.X_test.values.reshape(self.X_test.shape[0], self.X_test.shape[1], 1).astype('float32')
 
+                    # Fit the model
                     model.fit(X_train_reshaped, self.y_train, epochs=5, batch_size=32, verbose=0)
                     y_prob = model.predict(X_test_reshaped).flatten()
                     y_pred = (y_prob > 0.5).astype("int32")
+
                 else:
+                    # Traditional models don't need reshaping
                     model.fit(self.X_train, self.y_train)
                     y_pred = model.predict(self.X_test)
                     y_prob = model.predict_proba(self.X_test)[:, 1]
