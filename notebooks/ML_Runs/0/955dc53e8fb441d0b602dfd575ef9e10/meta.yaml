@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/955dc53e8fb441d0b602dfd575ef9e10/artifacts
+end_time: 1729691462774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 955dc53e8fb441d0b602dfd575ef9e10
+run_name: agreeable-hound-76
+run_uuid: 955dc53e8fb441d0b602dfd575ef9e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691321411
+status: 3
+tags: []
+user_id: root

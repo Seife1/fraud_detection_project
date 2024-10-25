@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/d3b3d39e42064e218f1c231ae664def0/artifacts
+end_time: 1729676064550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3b3d39e42064e218f1c231ae664def0
+run_name: tasteful-panda-549
+run_uuid: d3b3d39e42064e218f1c231ae664def0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676048378
+status: 4
+tags: []
+user_id: root

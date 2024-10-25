@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/c0324a7407c54af887b44cb49aac380b/artifacts
+end_time: 1729689837569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0324a7407c54af887b44cb49aac380b
+run_name: whimsical-cow-845
+run_uuid: c0324a7407c54af887b44cb49aac380b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729689678051
+status: 3
+tags: []
+user_id: root

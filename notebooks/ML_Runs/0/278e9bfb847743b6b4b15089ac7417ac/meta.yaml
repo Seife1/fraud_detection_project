@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/278e9bfb847743b6b4b15089ac7417ac/artifacts
+end_time: 1729676777074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 278e9bfb847743b6b4b15089ac7417ac
+run_name: melodic-dolphin-43
+run_uuid: 278e9bfb847743b6b4b15089ac7417ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676586452
+status: 3
+tags: []
+user_id: root

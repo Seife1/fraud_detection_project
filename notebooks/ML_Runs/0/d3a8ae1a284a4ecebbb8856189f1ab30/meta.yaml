@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/d3a8ae1a284a4ecebbb8856189f1ab30/artifacts
+end_time: 1729691843292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3a8ae1a284a4ecebbb8856189f1ab30
+run_name: CNN
+run_uuid: d3a8ae1a284a4ecebbb8856189f1ab30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691793877
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/301d9648b62f420b81a74181bbec0744/artifacts
+end_time: 1729676584303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 301d9648b62f420b81a74181bbec0744
+run_name: victorious-worm-515
+run_uuid: 301d9648b62f420b81a74181bbec0744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676426004
+status: 3
+tags: []
+user_id: root

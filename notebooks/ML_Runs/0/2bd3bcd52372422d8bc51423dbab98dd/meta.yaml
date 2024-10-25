@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/2bd3bcd52372422d8bc51423dbab98dd/artifacts
+end_time: 1729689835128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bd3bcd52372422d8bc51423dbab98dd
+run_name: debonair-hawk-618
+run_uuid: 2bd3bcd52372422d8bc51423dbab98dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729689678051
+status: 3
+tags: []
+user_id: root

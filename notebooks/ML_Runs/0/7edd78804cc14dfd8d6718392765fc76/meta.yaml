@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/7edd78804cc14dfd8d6718392765fc76/artifacts
+end_time: 1729696462270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7edd78804cc14dfd8d6718392765fc76
+run_name: LSTM
+run_uuid: 7edd78804cc14dfd8d6718392765fc76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729696244933
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729690234792
+current_stage: None
+description: null
+last_updated_timestamp: 1729690234792
+name: cnn
+run_id: 17a8ff654e71430da819f5bf441c42db
+run_link: null
+source: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/17a8ff654e71430da819f5bf441c42db/artifacts/cnn_model
+status: READY
+status_message: null
+storage_location: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/17a8ff654e71430da819f5bf441c42db/artifacts/cnn_model
+user_id: null
+version: 3

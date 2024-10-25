@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/42be4081f58445d09ea3010de71d8261/artifacts
+end_time: 1729695534891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42be4081f58445d09ea3010de71d8261
+run_name: adorable-tern-822
+run_uuid: 42be4081f58445d09ea3010de71d8261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729693207919
+status: 3
+tags: []
+user_id: root

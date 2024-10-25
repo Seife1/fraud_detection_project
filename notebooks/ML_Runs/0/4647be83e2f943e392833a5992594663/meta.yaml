@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/4647be83e2f943e392833a5992594663/artifacts
+end_time: 1729689835128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4647be83e2f943e392833a5992594663
+run_name: wistful-carp-250
+run_uuid: 4647be83e2f943e392833a5992594663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729689678051
+status: 3
+tags: []
+user_id: root

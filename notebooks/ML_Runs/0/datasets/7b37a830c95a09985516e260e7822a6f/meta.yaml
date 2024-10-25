@@ -1,0 +1,22 @@
+digest: 89bd26e0
+name: dataset
+profile: '{"num_rows": 120889, "num_elements": 2417780}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Unnamed: 0", "required": true},
+  {"type": "string", "name": "signup_time", "required": true}, {"type": "string",
+  "name": "purchase_time", "required": true}, {"type": "double", "name": "purchase_value",
+  "required": true}, {"type": "string", "name": "device_id", "required": true}, {"type":
+  "double", "name": "age", "required": true}, {"type": "double", "name": "ip_address",
+  "required": true}, {"type": "double", "name": "hour_of_day", "required": true},
+  {"type": "double", "name": "day_of_week", "required": true}, {"type": "double",
+  "name": "purchase_delay", "required": true}, {"type": "double", "name": "user_transaction_frequency",
+  "required": true}, {"type": "double", "name": "device_transaction_frequency", "required":
+  true}, {"type": "double", "name": "user_transaction_velocity", "required": true},
+  {"type": "boolean", "name": "source_Direct", "required": true}, {"type": "boolean",
+  "name": "source_SEO", "required": true}, {"type": "boolean", "name": "browser_FireFox",
+  "required": true}, {"type": "boolean", "name": "browser_IE", "required": true},
+  {"type": "boolean", "name": "browser_Opera", "required": true}, {"type": "boolean",
+  "name": "browser_Safari", "required": true}, {"type": "boolean", "name": "sex_M",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "root", "mlflow.source.name": "/usr/local/lib/python3.10/dist-packages/colab_kernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

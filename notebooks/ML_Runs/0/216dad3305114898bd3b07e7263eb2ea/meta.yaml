@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/216dad3305114898bd3b07e7263eb2ea/artifacts
+end_time: 1729688763193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 216dad3305114898bd3b07e7263eb2ea
+run_name: capable-wolf-717
+run_uuid: 216dad3305114898bd3b07e7263eb2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688620010
+status: 3
+tags: []
+user_id: root

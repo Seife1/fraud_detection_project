@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/ee372e7aa79d4ad89ee9e5975d986f3e/artifacts
+end_time: 1729688765699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee372e7aa79d4ad89ee9e5975d986f3e
+run_name: defiant-fox-595
+run_uuid: ee372e7aa79d4ad89ee9e5975d986f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688620010
+status: 3
+tags: []
+user_id: root

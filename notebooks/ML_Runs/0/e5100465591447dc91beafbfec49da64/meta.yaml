@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/e5100465591447dc91beafbfec49da64/artifacts
+end_time: 1729688359194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5100465591447dc91beafbfec49da64
+run_name: resilient-cat-567
+run_uuid: e5100465591447dc91beafbfec49da64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688202451
+status: 3
+tags: []
+user_id: root

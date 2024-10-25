@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/f24044d6d2774682a096ba948513f82b/artifacts
+end_time: 1729688919900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f24044d6d2774682a096ba948513f82b
+run_name: polite-stoat-73
+run_uuid: f24044d6d2774682a096ba948513f82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688765721
+status: 3
+tags: []
+user_id: root

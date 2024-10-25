@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/76a4c2b3a8664d6fbd0e8173ec784ac9/artifacts
+end_time: 1729688202430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76a4c2b3a8664d6fbd0e8173ec784ac9
+run_name: nosy-hog-616
+run_uuid: 76a4c2b3a8664d6fbd0e8173ec784ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688041554
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/f3581d539db84e558d13219d3042230b/artifacts
+end_time: 1729689835128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3581d539db84e558d13219d3042230b
+run_name: charming-shark-808
+run_uuid: f3581d539db84e558d13219d3042230b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729689678051
+status: 3
+tags: []
+user_id: root

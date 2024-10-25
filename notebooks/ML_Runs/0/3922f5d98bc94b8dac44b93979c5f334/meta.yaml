@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/3922f5d98bc94b8dac44b93979c5f334/artifacts
+end_time: 1729693205399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3922f5d98bc94b8dac44b93979c5f334
+run_name: powerful-rat-54
+run_uuid: 3922f5d98bc94b8dac44b93979c5f334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691843439
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/04b9c91be0f8444b80a65a7a34483c6c/artifacts
+end_time: 1729676775362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04b9c91be0f8444b80a65a7a34483c6c
+run_name: auspicious-steed-99
+run_uuid: 04b9c91be0f8444b80a65a7a34483c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676586452
+status: 3
+tags: []
+user_id: root

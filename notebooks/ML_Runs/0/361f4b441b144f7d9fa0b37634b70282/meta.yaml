@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/361f4b441b144f7d9fa0b37634b70282/artifacts
+end_time: 1729691618719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 361f4b441b144f7d9fa0b37634b70282
+run_name: rumbling-mole-662
+run_uuid: 361f4b441b144f7d9fa0b37634b70282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691465376
+status: 3
+tags: []
+user_id: root

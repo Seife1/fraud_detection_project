@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729688940000
+current_stage: None
+description: null
+last_updated_timestamp: 1729688940000
+name: random_forest
+run_id: e411defbc7ac419e8705daea16969ad0
+run_link: null
+source: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/e411defbc7ac419e8705daea16969ad0/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/e411defbc7ac419e8705daea16969ad0/artifacts/random_forest_model
+user_id: null
+version: 3

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729690173759
+current_stage: None
+description: null
+last_updated_timestamp: 1729690173759
+name: lstm
+run_id: f7cdd7a58e594872baa06364ac33f910
+run_link: null
+source: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/f7cdd7a58e594872baa06364ac33f910/artifacts/lstm_model
+status: READY
+status_message: null
+storage_location: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/f7cdd7a58e594872baa06364ac33f910/artifacts/lstm_model
+user_id: null
+version: 3

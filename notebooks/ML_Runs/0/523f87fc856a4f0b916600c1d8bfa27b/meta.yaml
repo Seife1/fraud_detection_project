@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/523f87fc856a4f0b916600c1d8bfa27b/artifacts
+end_time: 1729676584303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 523f87fc856a4f0b916600c1d8bfa27b
+run_name: exultant-pug-463
+run_uuid: 523f87fc856a4f0b916600c1d8bfa27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676426004
+status: 3
+tags: []
+user_id: root

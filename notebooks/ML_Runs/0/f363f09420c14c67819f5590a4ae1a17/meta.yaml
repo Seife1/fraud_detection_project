@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/f363f09420c14c67819f5590a4ae1a17/artifacts
+end_time: 1729693205399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f363f09420c14c67819f5590a4ae1a17
+run_name: caring-newt-246
+run_uuid: f363f09420c14c67819f5590a4ae1a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691843439
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/96673d0b46db4cc59be54361e23f5497/artifacts
+end_time: 1729689835128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96673d0b46db4cc59be54361e23f5497
+run_name: vaunted-sheep-63
+run_uuid: 96673d0b46db4cc59be54361e23f5497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729689678051
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/a0cb6ea50ff3498eb20885f81294277a/artifacts
+end_time: 1729688919900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0cb6ea50ff3498eb20885f81294277a
+run_name: receptive-fowl-690
+run_uuid: a0cb6ea50ff3498eb20885f81294277a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688765721
+status: 3
+tags: []
+user_id: root

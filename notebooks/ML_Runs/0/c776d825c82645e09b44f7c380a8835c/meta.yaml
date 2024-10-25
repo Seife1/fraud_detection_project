@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/c776d825c82645e09b44f7c380a8835c/artifacts
+end_time: 1729689999887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c776d825c82645e09b44f7c380a8835c
+run_name: nervous-stag-475
+run_uuid: c776d825c82645e09b44f7c380a8835c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729689837591
+status: 3
+tags: []
+user_id: root

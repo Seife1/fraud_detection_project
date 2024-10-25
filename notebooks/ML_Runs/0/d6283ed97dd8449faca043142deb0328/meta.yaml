@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/d6283ed97dd8449faca043142deb0328/artifacts
+end_time: 1729691620557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6283ed97dd8449faca043142deb0328
+run_name: capable-goose-610
+run_uuid: d6283ed97dd8449faca043142deb0328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691465376
+status: 3
+tags: []
+user_id: root

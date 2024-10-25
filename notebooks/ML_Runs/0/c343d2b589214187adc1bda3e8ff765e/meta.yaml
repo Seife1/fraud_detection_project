@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/c343d2b589214187adc1bda3e8ff765e/artifacts
+end_time: 1729693205399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c343d2b589214187adc1bda3e8ff765e
+run_name: defiant-eel-825
+run_uuid: c343d2b589214187adc1bda3e8ff765e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691843439
+status: 3
+tags: []
+user_id: root

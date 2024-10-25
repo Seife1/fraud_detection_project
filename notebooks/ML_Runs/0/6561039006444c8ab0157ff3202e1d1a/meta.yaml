@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/6561039006444c8ab0157ff3202e1d1a/artifacts
+end_time: 1729691618719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6561039006444c8ab0157ff3202e1d1a
+run_name: amazing-roo-528
+run_uuid: 6561039006444c8ab0157ff3202e1d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729691465376
+status: 3
+tags: []
+user_id: root

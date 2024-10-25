@@ -1,0 +1,6 @@
+{
+  "accuracy_score_unknown_dataset": "accuracy_score(y_true=<Series>, y_pred=y_pred)",
+  "f1_score_unknown_dataset": "f1_score(y_true=<Series>, y_pred=y_pred)",
+  "precision_score_unknown_dataset": "precision_score(y_true=<Series>, y_pred=y_pred)",
+  "recall_score_unknown_dataset": "recall_score(y_true=<Series>, y_pred=y_pred)"
+}

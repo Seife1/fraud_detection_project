@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/f458c7a9aff74d9ab0b01399995cbd2a/artifacts
+end_time: 1729695537168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f458c7a9aff74d9ab0b01399995cbd2a
+run_name: calm-grouse-205
+run_uuid: f458c7a9aff74d9ab0b01399995cbd2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729693207919
+status: 3
+tags: []
+user_id: root

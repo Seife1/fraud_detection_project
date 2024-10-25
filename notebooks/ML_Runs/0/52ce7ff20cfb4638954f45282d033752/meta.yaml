@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/52ce7ff20cfb4638954f45282d033752/artifacts
+end_time: 1729688200168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52ce7ff20cfb4638954f45282d033752
+run_name: nimble-shrike-991
+run_uuid: 52ce7ff20cfb4638954f45282d033752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688041554
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,36 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.0
+model_size_bytes: 117927
+model_uuid: 8a93db3c5e014b10943dcdb3ccfb5d72
+run_id: e5100465591447dc91beafbfec49da64
+signature:
+  inputs: '[{"type": "double", "name": "purchase_value", "required": true}, {"type":
+    "double", "name": "age", "required": true}, {"type": "double", "name": "hour_of_day",
+    "required": true}, {"type": "double", "name": "day_of_week", "required": true},
+    {"type": "double", "name": "purchase_delay", "required": true}, {"type": "double",
+    "name": "user_transaction_frequency", "required": true}, {"type": "double", "name":
+    "device_transaction_frequency", "required": true}, {"type": "double", "name":
+    "user_transaction_velocity", "required": true}, {"type": "boolean", "name": "source_Direct",
+    "required": true}, {"type": "boolean", "name": "source_SEO", "required": true},
+    {"type": "boolean", "name": "browser_FireFox", "required": true}, {"type": "boolean",
+    "name": "browser_IE", "required": true}, {"type": "boolean", "name": "browser_Opera",
+    "required": true}, {"type": "boolean", "name": "browser_Safari", "required": true},
+    {"type": "boolean", "name": "sex_M", "required": true}, {"type": "double", "name":
+    "time_diff", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-10-23 12:59:11.095936'

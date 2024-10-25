@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/acdbeadea8b749c68f869b6d3fa0fa0c/artifacts
+end_time: 1729688357415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acdbeadea8b749c68f869b6d3fa0fa0c
+run_name: trusting-hound-875
+run_uuid: acdbeadea8b749c68f869b6d3fa0fa0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688202451
+status: 3
+tags: []
+user_id: root

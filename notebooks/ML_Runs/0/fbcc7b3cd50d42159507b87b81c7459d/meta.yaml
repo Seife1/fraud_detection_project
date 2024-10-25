@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/fbcc7b3cd50d42159507b87b81c7459d/artifacts
+end_time: 1729688422833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbcc7b3cd50d42159507b87b81c7459d
+run_name: Gradient Boosting
+run_uuid: fbcc7b3cd50d42159507b87b81c7459d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688381685
+status: 3
+tags: []
+user_id: root

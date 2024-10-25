@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/940b3f9e00a74f059bcb5dd530ead2bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 940b3f9e00a74f059bcb5dd530ead2bb
+run_name: rogue-squid-540
+run_uuid: 940b3f9e00a74f059bcb5dd530ead2bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729690235374
+status: 1
+tags: []
+user_id: root

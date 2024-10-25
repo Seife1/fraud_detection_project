@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729688420816
+current_stage: None
+description: null
+last_updated_timestamp: 1729688420816
+name: gradient_boosting
+run_id: fbcc7b3cd50d42159507b87b81c7459d
+run_link: null
+source: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/fbcc7b3cd50d42159507b87b81c7459d/artifacts/gradient_boosting_model
+status: READY
+status_message: null
+storage_location: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/fbcc7b3cd50d42159507b87b81c7459d/artifacts/gradient_boosting_model
+user_id: null
+version: 2

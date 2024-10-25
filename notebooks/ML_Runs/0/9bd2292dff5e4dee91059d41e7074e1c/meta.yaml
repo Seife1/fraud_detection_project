@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/9bd2292dff5e4dee91059d41e7074e1c/artifacts
+end_time: 1729688919900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bd2292dff5e4dee91059d41e7074e1c
+run_name: abrasive-bug-425
+run_uuid: 9bd2292dff5e4dee91059d41e7074e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688765721
+status: 3
+tags: []
+user_id: root

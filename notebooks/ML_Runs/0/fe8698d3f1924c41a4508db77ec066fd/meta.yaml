@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/fe8698d3f1924c41a4508db77ec066fd/artifacts
+end_time: 1729676775362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe8698d3f1924c41a4508db77ec066fd
+run_name: redolent-asp-682
+run_uuid: fe8698d3f1924c41a4508db77ec066fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676586452
+status: 3
+tags: []
+user_id: root

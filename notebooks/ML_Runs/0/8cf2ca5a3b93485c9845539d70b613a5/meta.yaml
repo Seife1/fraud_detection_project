@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/8cf2ca5a3b93485c9845539d70b613a5/artifacts
+end_time: 1729688381664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cf2ca5a3b93485c9845539d70b613a5
+run_name: Random Forest
+run_uuid: 8cf2ca5a3b93485c9845539d70b613a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729688359213
+status: 3
+tags: []
+user_id: root

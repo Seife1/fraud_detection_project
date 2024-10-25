@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/Colab%20Notebooks/fraud_detection_project/notebooks/mlruns/0/34519762711643c49d6f39a5bc299f5a/artifacts
+end_time: 1729676775362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34519762711643c49d6f39a5bc299f5a
+run_name: upset-goose-398
+run_uuid: 34519762711643c49d6f39a5bc299f5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729676586452
+status: 3
+tags: []
+user_id: root
