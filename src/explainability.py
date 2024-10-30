@@ -41,9 +41,10 @@ class FraudDetectionExplainer:
         plt.show()
 
         # SHAP Force Plot: Visualize feature impact on prediction for one instance
-        shap.force_plot(explainer.expected_value[0], shap_values[0,instance_idx], self.X_test.iloc[instance_idx]) # Assuming a single output model, adjust [0] if necessary for multi-output models
+        shap.force_plot(explainer.expected_value, shap_values[instance_idx], self.X_test.iloc[instance_idx, :])
         plt.title(f'SHAP Force Plot for Fraud Detection Instance {instance_idx}')
-        
+        plt.show()
+
         # SHAP Dependence Plot: Shows how one feature affects model output (e.g., Transaction Amount)
         shap.dependence_plot(self.X_test.columns[0], shap_values, self.X_test)
         plt.title(f'SHAP Dependence Plot for Feature: {self.X_test.columns[0]}')
