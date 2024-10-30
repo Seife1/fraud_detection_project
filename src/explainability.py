@@ -30,25 +30,29 @@ class FraudDetectionExplainer:
     def shap_explanation(self, instance_idx=0):
         """Generate SHAP plots: summary, force, and dependence plots for fraud detection."""
 
-
         # Create SHAP explainer and calculate SHAP values
-        explainer = shap.TreeExplainer(self.model, self.X_test)
-        shap_values = explainer.shap_values(self.X_test)
+        explainer = shap.TreeExplainer(self.model)
+        shap_values = explainer(self.X_test)  # Direct call to get an Explanation object
 
         # SHAP Summary Plot: Show feature importance across all test instances
-        shap.summary_plot(shap_values, self.X_test)
+        shap.summary_plot(shap_values.values, self.X_test)
         plt.title('SHAP Summary Plot for Fraud Detection')
         plt.show()
 
         # SHAP Force Plot: Visualize feature impact on prediction for one instance
-        shap.force_plot(explainer.expected_value, shap_values[instance_idx], self.X_test.iloc[instance_idx, :])
+        shap.force_plot(
+            shap_values.base_values[instance_idx], 
+            shap_values.values[instance_idx], 
+            self.X_test.iloc[instance_idx, :]
+        )
         plt.title(f'SHAP Force Plot for Fraud Detection Instance {instance_idx}')
         plt.show()
 
-        # SHAP Dependence Plot: Shows how one feature affects model output (e.g., Transaction Amount)
-        shap.dependence_plot(self.X_test.columns[0], shap_values, self.X_test)
+        # SHAP Dependence Plot: Shows how one feature affects model output
+        shap.dependence_plot(self.X_test.columns[0], shap_values.values, self.X_test)
         plt.title(f'SHAP Dependence Plot for Feature: {self.X_test.columns[0]}')
         plt.show()
+
 
     def lime_explanation(self, instance_idx=0):
         """Generate LIME feature importance plot for a single fraud detection instance."""
